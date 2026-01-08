@@ -79,5 +79,5 @@ This project is licensed under the **MIT License** — free for personal and com
 
 ---
 
-**Author:** [@lonemilk](https://github.com/lonemilk)  
-**Repository:** [ComfyUI-Upscaler-4K](https://github.com/lonemilk/ComfyUI-Upscaler-4K)
+**Author:** [@lonemilk](https://github.com/EliseiBorisov/)  
+**Repository:** [ComfyUI-Upscaler-4K](https://github.com/EliseiBorisov/ComfyUI-Upscaler-4K/)
