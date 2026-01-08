@@ -42,7 +42,7 @@ Or in **ComfyUI**:
 Clone the repository directly into your ComfyUI `custom_nodes` directory:
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/lonemilk/ComfyUI-Upscaler-4K.git
+git clone [https://github.com/lonemilk/ComfyUI-Upscaler-4K](https://github.com/EliseiBorisov/ComfyUI-Upscaler-4K.git
 ```
 Then restart ComfyUI.
 
