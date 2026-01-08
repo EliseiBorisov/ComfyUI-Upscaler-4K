@@ -31,7 +31,7 @@ It leverages specialized internal modules optimized for **refinement and detail 
 ### 🧱 Option 1 — via ComfyUI Manager
 You can install it directly by clicking:
   
-[![Install with ComfyUI Manager](https://img.shields.io/badge/Install%20with-ComfyUI%20Manager-blue)](https://github.com/lonemilk/ComfyUI-Upscaler-4K)
+[![Install with ComfyUI Manager](https://img.shields.io/badge/Install%20with-ComfyUI%20Manager-blue)](https://github.com/EliseiBorisov/ComfyUI-Upscaler-4K/)
 
 Or in **ComfyUI**:
 > ⚙️ `Manager → Install Missing Custom Nodes` → Search for `ComfyUI-Upscaler-4K`
@@ -42,7 +42,7 @@ Or in **ComfyUI**:
 Clone the repository directly into your ComfyUI `custom_nodes` directory:
 ```bash
 cd ComfyUI/custom_nodes
-git clone [https://github.com/lonemilk/ComfyUI-Upscaler-4K](https://github.com/EliseiBorisov/ComfyUI-Upscaler-4K.git
+git clone https://github.com/EliseiBorisov/ComfyUI-Upscaler-4K.git
 ```
 Then restart ComfyUI.
 
