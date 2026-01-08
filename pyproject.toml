@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-upscaler-4k"
+description = "A custom ComfyUI node that enhances image upscaling quality based on user-selected intensity (0–5), leveraging specialized internal modules optimized for upscale refinement and detail preservation."
+version = "1.0.0"
+license = "MIT"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/lonemilk/ComfyUI-Upscaler-4K"
+
+[tool.comfy]
+PublisherId = "lonemilk"
+DisplayName = "ComfyUI-Upscaler-4K"
+Icon = ""
